@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -e
 # Install required dependencies
 
 pkg update
