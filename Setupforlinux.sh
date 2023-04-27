@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 # Install required dependencies
 
 sudo apt-get update
